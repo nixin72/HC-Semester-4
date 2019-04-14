@@ -1,0 +1,11 @@
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTest\bin\Debug\hulkUnitTest.dll
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTest\bin\Debug\hulkUnitTest.pdb
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTest\bin\Debug\HulkHvkDB.dll
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTest\bin\Debug\teamHvkBLL.dll
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTest\bin\Debug\Oracle.ManagedDataAccess.dll
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTest\bin\Debug\HulkHvkDB.pdb
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTest\bin\Debug\teamHvkBLL.pdb
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTest\obj\Debug\hulkUnitTest.csprojResolveAssemblyReference.cache
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTest\obj\Debug\hulkUnitTest.dll
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTest\obj\Debug\hulkUnitTest.pdb
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTest\bin\Debug\hulkUnitTest.dll.config

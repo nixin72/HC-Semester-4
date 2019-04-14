@@ -1,0 +1,7 @@
+H:\Prog IV\Labs\Example11\ExampleDB\bin\Debug\ExampleDB.dll.config
+H:\Prog IV\Labs\Example11\ExampleDB\bin\Debug\ExampleDB.dll
+H:\Prog IV\Labs\Example11\ExampleDB\bin\Debug\ExampleDB.pdb
+H:\Prog IV\Labs\Example11\ExampleDB\bin\Debug\Oracle.ManagedDataAccess.dll
+H:\Prog IV\Labs\Example11\ExampleDB\obj\Debug\ExampleDB.csprojResolveAssemblyReference.cache
+H:\Prog IV\Labs\Example11\ExampleDB\obj\Debug\ExampleDB.dll
+H:\Prog IV\Labs\Example11\ExampleDB\obj\Debug\ExampleDB.pdb

@@ -1,0 +1,19 @@
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\bin\Debug\pdB42Test2_2.exe.config
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\bin\Debug\pdB42Test2_2.exe
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\bin\Debug\pdB42Test2_2.pdb
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\bin\Debug\Oracle.ManagedDataAccess.dll
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\obj\Debug\pdB42Test2_2.csprojResolveAssemblyReference.cache
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\obj\Debug\MainWindow.g.cs
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\obj\Debug\App.g.cs
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\obj\Debug\pdB42Test2_2_MarkupCompile.cache
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\obj\Debug\pdB42Test2_2_MarkupCompile.lref
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\obj\Debug\MainWindow.baml
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\obj\Debug\pdB42Test2_2.g.resources
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\obj\Debug\pdB42Test2_2.Properties.Resources.resources
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\obj\Debug\pdB42Test2_2.csproj.GenerateResource.Cache
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\obj\Debug\pdB42Test2_2.exe
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\obj\Debug\pdB42Test2_2.pdb
+H:\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\1523066\Prog IV\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\bin\Debug\pdB42Test2_2.exe.config
+Z:\1523066\Prog IV\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\obj\Debug\pdB42Test2_2.exe
+Z:\1523066\Prog IV\pdumaresqB42_T02\pdB42Test2\pdB42Test2_2\obj\Debug\pdB42Test2_2.pdb

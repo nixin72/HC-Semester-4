@@ -1,0 +1,44 @@
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\bin\Debug\pdumaresq_B42_T02Study.exe.config
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\bin\Debug\pdumaresq_B42_T02Study.exe
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\bin\Debug\pdumaresq_B42_T02Study.pdb
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study.csprojResolveAssemblyReference.cache
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\MainWindow.g.cs
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\App.g.cs
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study_MarkupCompile.cache
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study_MarkupCompile.lref
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\MainWindow.baml
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study.g.resources
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study.Properties.Resources.resources
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study.csproj.GenerateResource.Cache
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study.exe
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study.pdb
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\Window1.g.cs
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\Window1.baml
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\GetOwnerByLastName.g.cs
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\GetOwnerByLastName.baml
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\GetOwnerPet.g.cs
+c:\users\phdum\onedrive\documents\visual studio 2015\Projects\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\GetOwnerPet.baml
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\bin\Debug\pdumaresq_B42_T02Study.exe.config
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study.exe
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study.pdb
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\bin\Debug\pdumaresq_B42_T02Study.exe
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\bin\Debug\pdumaresq_B42_T02Study.pdb
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\bin\Debug\Oracle.ManagedDataAccess.dll
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study.csprojResolveAssemblyReference.cache
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\GetOwnerByLastName.g.cs
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\GetOwnerPet.g.cs
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\MainWindow.g.cs
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\Window1.g.cs
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\App.g.cs
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\GeneratedInternalTypeHelper.g.cs
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study_MarkupCompile.cache
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study_MarkupCompile.lref
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\GetOwnerByLastName.baml
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\GetOwnerPet.baml
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\MainWindow.baml
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\Window1.baml
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study.g.resources
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study.Properties.Resources.resources
+S:\all\prog\Test\pdumaresq_B42_T02Study\pdumaresq_B42_T02Study\obj\Debug\pdumaresq_B42_T02Study.csproj.GenerateResource.Cache

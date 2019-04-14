@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HVK", "HVK\HVK.csproj", "{6C0120D0-AA49-4E58-B231-2C38B2B1639F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HvkBLL", "HvkBLL\HvkBLL.csproj", "{18D4320A-9707-438B-A21B-B913FC719C0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HvkDB", "HvkDB\HvkDB.csproj", "{F7F3981C-10F7-4D56-93D6-5645E31F6039}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C0120D0-AA49-4E58-B231-2C38B2B1639F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0120D0-AA49-4E58-B231-2C38B2B1639F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0120D0-AA49-4E58-B231-2C38B2B1639F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0120D0-AA49-4E58-B231-2C38B2B1639F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D4320A-9707-438B-A21B-B913FC719C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D4320A-9707-438B-A21B-B913FC719C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D4320A-9707-438B-A21B-B913FC719C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D4320A-9707-438B-A21B-B913FC719C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F3981C-10F7-4D56-93D6-5645E31F6039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F3981C-10F7-4D56-93D6-5645E31F6039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F3981C-10F7-4D56-93D6-5645E31F6039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F3981C-10F7-4D56-93D6-5645E31F6039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://cstfs.cegep-heritage.qc.ca:8080/tfs/c40finalassignment
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HVK\\HVK.csproj
+		SccProjectName1 = HVK
+		SccLocalPath1 = HVK
+		SccProjectUniqueName2 = HvkBLL\\HvkBLL.csproj
+		SccProjectName2 = HvkBLL
+		SccLocalPath2 = HvkBLL
+		SccProjectUniqueName3 = HvkDB\\HvkDB.csproj
+		SccProjectName3 = HvkDB
+		SccLocalPath3 = HvkDB
+	EndGlobalSection
+EndGlobal

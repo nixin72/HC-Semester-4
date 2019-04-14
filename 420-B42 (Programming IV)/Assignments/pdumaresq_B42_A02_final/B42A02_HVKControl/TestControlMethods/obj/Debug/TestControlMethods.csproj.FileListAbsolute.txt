@@ -1,0 +1,13 @@
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\TestControlMethods\bin\Debug\TestControlMethods.dll
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\TestControlMethods\bin\Debug\TestControlMethods.pdb
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\TestControlMethods\bin\Debug\B42A02_HVKControl.dll
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\TestControlMethods\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\TestControlMethods\bin\Debug\PD_HVK.dll
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\TestControlMethods\bin\Debug\B42A02_HVKControl.pdb
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\TestControlMethods\bin\Debug\PD_HVK.pdb
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\TestControlMethods\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\TestControlMethods\obj\Debug\TestControlMethods.csprojResolveAssemblyReference.cache
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\TestControlMethods\obj\Debug\TestControlMethods.dll
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\TestControlMethods\obj\Debug\TestControlMethods.pdb
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\TestControlMethods\bin\Debug\stubMethods.dll
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\TestControlMethods\bin\Debug\stubMethods.pdb

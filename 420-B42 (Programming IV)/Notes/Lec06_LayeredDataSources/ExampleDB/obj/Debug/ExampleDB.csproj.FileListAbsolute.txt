@@ -1,0 +1,14 @@
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\ExampleDB\bin\Debug\ExampleDB.dll.config
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\ExampleDB\bin\Debug\ExampleDB.dll
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\ExampleDB\bin\Debug\ExampleDB.pdb
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\ExampleDB\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\ExampleDB\obj\Debug\ExampleDB.dll
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\ExampleDB\obj\Debug\ExampleDB.pdb
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\ExampleDB\obj\Debug\ExampleDB.csprojResolveAssemblyReference.cache
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\ExampleDB\bin\Debug\ExampleDB.dll.config
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\ExampleDB\bin\Debug\ExampleDB.dll
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\ExampleDB\bin\Debug\ExampleDB.pdb
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\ExampleDB\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\ExampleDB\obj\Debug\ExampleDB.csprojResolveAssemblyReference.cache
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\ExampleDB\obj\Debug\ExampleDB.dll
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\ExampleDB\obj\Debug\ExampleDB.pdb

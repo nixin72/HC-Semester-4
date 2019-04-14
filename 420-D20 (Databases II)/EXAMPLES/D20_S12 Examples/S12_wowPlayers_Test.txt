@@ -1,0 +1,29 @@
+
+--- Testing (not a real test script where we would automate checking for expected results)
+-- valid insert
+--- expected result: ensure log is updated
+ insert into WOW_PLAYER_PRIMARY_ATTRIBUTES (NAME,STAMINA,STRENGTH,AGILITY,INTELLECT,RACE) values ('Richard',1,2,3,1000,'Professor');
+ 
+--- valid update
+--- expected result: ensure log is updated
+update WOW_PLAYER_PRIMARY_ATTRIBUTES
+set INTELLECT = INTELLECT + 2,
+ STRENGTH = STRENGTH + 1
+where name = 'Thomas';
+
+
+ 
+ -- valid delete
+ --- expected result: ensure log is updated
+delete WOW_PLAYER_PRIMARY_ATTRIBUTES
+where name = 'Richard';
+
+ -- invalid update
+ -- expected result: exception thrown, no update, Max is a dirty rotten cheater
+update WOW_PLAYER_PRIMARY_ATTRIBUTES
+set INTELLECT = INTELLECT + 2,
+ STAMINA = STAMINA + 4
+where name = 'Max';
+
+
+

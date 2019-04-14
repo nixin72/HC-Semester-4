@@ -1,0 +1,4 @@
+S:\all\prog\pdumaresq_B42_A01_classLibrary\PD_HVK\pdumaresq_B42_A01\bin\Debug\pdumaresq_B42_A01.dll
+S:\all\prog\pdumaresq_B42_A01_classLibrary\PD_HVK\pdumaresq_B42_A01\bin\Debug\pdumaresq_B42_A01.pdb
+S:\all\prog\pdumaresq_B42_A01_classLibrary\PD_HVK\pdumaresq_B42_A01\obj\Debug\pdumaresq_B42_A01.dll
+S:\all\prog\pdumaresq_B42_A01_classLibrary\PD_HVK\pdumaresq_B42_A01\obj\Debug\pdumaresq_B42_A01.pdb

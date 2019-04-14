@@ -1,0 +1,4 @@
+\\heritage-srv-5a\cs$\1523066\Visual Studio 2015\Projects\pdumaresqCardDeck\pdumaresqCardDeck\bin\Debug\pdumaresqCardDeck.dll
+\\heritage-srv-5a\cs$\1523066\Visual Studio 2015\Projects\pdumaresqCardDeck\pdumaresqCardDeck\bin\Debug\pdumaresqCardDeck.pdb
+\\heritage-srv-5a\cs$\1523066\Visual Studio 2015\Projects\pdumaresqCardDeck\pdumaresqCardDeck\obj\Debug\pdumaresqCardDeck.dll
+\\heritage-srv-5a\cs$\1523066\Visual Studio 2015\Projects\pdumaresqCardDeck\pdumaresqCardDeck\obj\Debug\pdumaresqCardDeck.pdb

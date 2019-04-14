@@ -1,0 +1,14 @@
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\HulkHvkDB\bin\Debug\HulkHvkDB.dll.config
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\HulkHvkDB\bin\Debug\HulkHvkDB.dll
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\HulkHvkDB\bin\Debug\HulkHvkDB.pdb
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\HulkHvkDB\bin\Debug\Oracle.ManagedDataAccess.dll
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\HulkHvkDB\obj\Debug\HulkHvkDB.csprojResolveAssemblyReference.cache
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\HulkHvkDB\obj\Debug\HulkHvkDB.dll
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\HulkHvkDB\obj\Debug\HulkHvkDB.pdb
+C:\Users\Alex\Google Drive\Classes\Heritage\Semester 04\420-B42-HR - Programming\Assignments\Assignment 03\pdumaresq_B42_A03\hulkClassLibrary\HulkHvkDB\obj\Debug\HulkHvkDB.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Google Drive\Classes\Heritage\Semester 04\420-B42-HR - Programming\Assignments\Assignment 03\pdumaresq_B42_A03\hulkClassLibrary\HulkHvkDB\obj\Debug\HulkHvkDB.dll
+C:\Users\Alex\Google Drive\Classes\Heritage\Semester 04\420-B42-HR - Programming\Assignments\Assignment 03\pdumaresq_B42_A03\hulkClassLibrary\HulkHvkDB\obj\Debug\HulkHvkDB.pdb
+C:\Users\Alex\Google Drive\Classes\Heritage\Semester 04\420-B42-HR - Programming\Assignments\Assignment 03\pdumaresq_B42_A03\hulkClassLibrary\HulkHvkDB\bin\Debug\HulkHvkDB.dll.config
+C:\Users\Alex\Google Drive\Classes\Heritage\Semester 04\420-B42-HR - Programming\Assignments\Assignment 03\pdumaresq_B42_A03\hulkClassLibrary\HulkHvkDB\bin\Debug\HulkHvkDB.dll
+C:\Users\Alex\Google Drive\Classes\Heritage\Semester 04\420-B42-HR - Programming\Assignments\Assignment 03\pdumaresq_B42_A03\hulkClassLibrary\HulkHvkDB\bin\Debug\HulkHvkDB.pdb
+C:\Users\Alex\Google Drive\Classes\Heritage\Semester 04\420-B42-HR - Programming\Assignments\Assignment 03\pdumaresq_B42_A03\hulkClassLibrary\HulkHvkDB\bin\Debug\Oracle.ManagedDataAccess.dll

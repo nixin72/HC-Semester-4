@@ -1,0 +1,5 @@
+D:\Dropbox\Heritage Docs\420-B42\Labs\Old\L04_UnitTestLibraries\MovingLibrary\MovingLibrary\bin\Debug\MovingLibrary.dll
+D:\Dropbox\Heritage Docs\420-B42\Labs\Old\L04_UnitTestLibraries\MovingLibrary\MovingLibrary\bin\Debug\MovingLibrary.pdb
+D:\Dropbox\Heritage Docs\420-B42\Labs\Old\L04_UnitTestLibraries\MovingLibrary\MovingLibrary\obj\Debug\MovingLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\Heritage Docs\420-B42\Labs\Old\L04_UnitTestLibraries\MovingLibrary\MovingLibrary\obj\Debug\MovingLibrary.dll
+D:\Dropbox\Heritage Docs\420-B42\Labs\Old\L04_UnitTestLibraries\MovingLibrary\MovingLibrary\obj\Debug\MovingLibrary.pdb

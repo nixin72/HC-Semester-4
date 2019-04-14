@@ -1,0 +1,41 @@
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\Lec06_LayeredDataSources.exe.config
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\Lec06_LayeredDataSources.exe
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\Lec06_LayeredDataSources.pdb
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\ExampleBLL.dll
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\ExampleDB.dll
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\ExampleBLL.pdb
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\ExampleDB.pdb
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources.csprojResolveAssemblyReference.cache
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\MainWindow.g.cs
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\App.g.cs
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources_MarkupCompile.cache
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources_MarkupCompile.lref
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\MainWindow.baml
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources.g.resources
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources.Properties.Resources.resources
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources.csproj.GenerateResource.Cache
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources.exe
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources.pdb
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\Lec06_LayeredDataSources.exe.config
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources.exe
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources.pdb
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources.csprojResolveAssemblyReference.cache
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\App.g.cs
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources_MarkupCompile.cache
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources_MarkupCompile.lref
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\Lec06_LayeredDataSources.exe
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\Lec06_LayeredDataSources.pdb
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\ExampleBLL.dll
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\ExampleDB.dll
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\ExampleBLL.pdb
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\ExampleDB.pdb
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\MainWindow.baml
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources.g.resources
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources.Properties.Resources.resources
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources.csproj.GenerateResource.Cache
+S:\all\prog\Lec06_LayeredDataSources\Lec06_LayeredDataSources\bin\Debug\Lec06_LayeredDataSources.exe.config
+S:\all\prog\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources.exe
+S:\all\prog\Lec06_LayeredDataSources\Lec06_LayeredDataSources\obj\Debug\Lec06_LayeredDataSources.pdb

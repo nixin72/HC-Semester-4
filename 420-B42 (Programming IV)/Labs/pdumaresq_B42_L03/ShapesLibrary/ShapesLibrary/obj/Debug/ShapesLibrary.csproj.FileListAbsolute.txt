@@ -1,0 +1,9 @@
+C:\Dropbox\Heritage Docs\420-B42\Labs\B42L04UnitTestLibraries\ShapesLibrary\ShapesLibrary\bin\Debug\ShapesLibrary.dll
+C:\Dropbox\Heritage Docs\420-B42\Labs\B42L04UnitTestLibraries\ShapesLibrary\ShapesLibrary\bin\Debug\ShapesLibrary.pdb
+C:\Dropbox\Heritage Docs\420-B42\Labs\B42L04UnitTestLibraries\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.csprojResolveAssemblyReference.cache
+C:\Dropbox\Heritage Docs\420-B42\Labs\B42L04UnitTestLibraries\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.dll
+C:\Dropbox\Heritage Docs\420-B42\Labs\B42L04UnitTestLibraries\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.pdb
+H:\Prog IV\Labs\pdumaresq_B42_L03\ShapesLibrary\ShapesLibrary\bin\Debug\ShapesLibrary.dll
+H:\Prog IV\Labs\pdumaresq_B42_L03\ShapesLibrary\ShapesLibrary\bin\Debug\ShapesLibrary.pdb
+H:\Prog IV\Labs\pdumaresq_B42_L03\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.dll
+H:\Prog IV\Labs\pdumaresq_B42_L03\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.pdb

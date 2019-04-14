@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdumaresq_B42_L04_partA", "pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA.csproj", "{CA089833-5604-4559-9585-4772F36CF79D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{FF787AC6-58F4-4C54-8DBE-66AD181E7100}"
+	ProjectSection(SolutionItems) = preProject
+		pdumaresq_B42_L04_partA\images\copy.png = pdumaresq_B42_L04_partA\images\copy.png
+		pdumaresq_B42_L04_partA\images\cut.png = pdumaresq_B42_L04_partA\images\cut.png
+		pdumaresq_B42_L04_partA\images\paste.png = pdumaresq_B42_L04_partA\images\paste.png
+		pdumaresq_B42_L04_partA\images\select_all.png = pdumaresq_B42_L04_partA\images\select_all.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA089833-5604-4559-9585-4772F36CF79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA089833-5604-4559-9585-4772F36CF79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA089833-5604-4559-9585-4772F36CF79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA089833-5604-4559-9585-4772F36CF79D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

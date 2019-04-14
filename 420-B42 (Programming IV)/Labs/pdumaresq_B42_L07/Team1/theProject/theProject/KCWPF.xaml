@@ -1,0 +1,9 @@
+﻿<Window x:Class="theProject.KCWPF"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="KCWPF" Height="300" Width="300">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="Kevin Cherryholme" VerticalAlignment="Top" Width="272"/>
+
+    </Grid>
+</Window>

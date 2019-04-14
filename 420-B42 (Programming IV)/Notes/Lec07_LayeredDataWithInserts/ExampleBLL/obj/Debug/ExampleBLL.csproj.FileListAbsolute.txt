@@ -1,0 +1,16 @@
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\bin\Debug\ExampleBLL.dll
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\bin\Debug\ExampleBLL.pdb
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\bin\Debug\ExampleDB.dll
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\bin\Debug\ExampleDB.pdb
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\obj\Debug\ExampleBLL.csprojResolveAssemblyReference.cache
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\obj\Debug\ExampleBLL.dll
+D:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\obj\Debug\ExampleBLL.pdb
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\bin\Debug\ExampleBLL.dll
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\bin\Debug\ExampleBLL.pdb
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\bin\Debug\ExampleDB.dll
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\bin\Debug\ExampleDB.pdb
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\obj\Debug\ExampleBLL.csprojResolveAssemblyReference.cache
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\obj\Debug\ExampleBLL.dll
+C:\Dropbox\Heritage Docs\420-B42\Examples\Lec07_LayeredDataWithInserts\ExampleBLL\obj\Debug\ExampleBLL.pdb

@@ -1,0 +1,14 @@
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA\bin\Debug\pdumaresq_B42_L04_partA.exe.config
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA\bin\Debug\pdumaresq_B42_L04_partA.exe
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA\bin\Debug\pdumaresq_B42_L04_partA.pdb
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA\obj\Debug\pdumaresq_B42_L04_partA.csprojResolveAssemblyReference.cache
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA\obj\Debug\App.g.cs
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA\obj\Debug\pdumaresq_B42_L04_partA_MarkupCompile.cache
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA\obj\Debug\pdumaresq_B42_L04_partA_MarkupCompile.lref
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA\obj\Debug\pdumaresq_B42_L04_partA.g.resources
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA\obj\Debug\pdumaresq_B42_L04_partA.Properties.Resources.resources
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA\obj\Debug\pdumaresq_B42_L04_partA.csproj.GenerateResource.Cache
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA\obj\Debug\pdumaresq_B42_L04_partA.exe
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA\obj\Debug\pdumaresq_B42_L04_partA.pdb
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA\obj\Debug\MainWindow.g.cs
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresq_B42_L04_partA\pdumaresq_B42_L04_partA\obj\Debug\MainWindow.baml

@@ -1,0 +1,292 @@
+------------------------------------------------------------------------------------------------------
+-- Visions, contraints, last minute interview preperation 
+------------------------------------------------------------------------------------------------------
+Conducting the interview:
+	- Appear professional and Unbiased
+	- Record ALL information
+	- Check on organizational policy regarding tape recording
+	- Be sure you understand all issues and terms
+	- Seperate facts from opinions
+	- Give interviewee time to ask questions
+	- Be sure to thank the interviewee
+	- End on time
+Conducting the interview practical tips: 
+	- Don't worry, be happy
+	- Pay attention
+	- Summarize key points
+	- Be succint
+	- Be honest
+	- Watch body language
+Post-Interview Follow-Up
+	- Prepare interview notes
+	- Prepare interview report
+	- Look for gaps and new questions
+Vision
+	- A vision document is often used in both the Agile and non-Agile world to answer
+		- What problem will the system solve?
+		- What features and benefits will it provide?
+		- For whom does it provide it?
+		- What performance, reliability, etc will it deliver?
+		- What platforms, standards, applications, etc, will it support?
+Project contraints
+	- Constrains are outside your control. 
+	  They are imposed upon you by the client, organization, or by any government regulations
+	- 3 main types:
+		- Cost
+		- Time
+		- Scope
+
+------------------------------------------------------------------------------------------------------
+-- Function Modelling - use cases
+------------------------------------------------------------------------------------------------------
+Use Case Modelling
+	- The process of modeling a system's functions in terms of business events, 
+	  who initiated the events, and how the system responds to those events.
+		- Use-case modeling has roots in object-oriented modeling
+		- Gained popularity in non-object development environments 
+		  because of its usefulness in communicating with users
+		- Compliments traditional modeling tools.
+	- Use-case diagram - a diagram that depicts the interactions between 
+	  the system and external systems and users
+		- It graphically describes who will use the system and in what 
+		  ways the user expects to interact with the system
+	- Use-case description - a textual description of the business event 
+	  and how the user will interact with the system to accomplish the task
+	- Use case - a behaviourally related sequence of steps (a scenario), both 
+	  automated and manual, for the purpose of completing a single business task.
+	- Illustrates the activities that are performed by users of a system
+	- Describe basic functions of the system
+		- What the user can do
+		- How the system responds
+	
+Use Case Diagram Syntax
+	- Actor 
+		- A person or system that derives benefits from and is external to the subject
+	- Use case
+		- Represents a major piece of system functionality
+	- Association relationship
+	- Include relationship
+	- Extends relationship
+	- Generalization relationship
+Use Case Diagram - Use Case
+	- Use cases describe the system functions from the perspective of external users, in 
+	  the manner and terminology in which they understand
+	- Subset of the overall system functionality
+		- Represents graphically by a horizontal ellipse with the name of the use 
+		  case appearing above, below, or inside the ellipse
+	- Major piece of system functionality
+	- Placed inside the system boundary
+	- Is labelled with descriptive verb-noun phrase
+Use case Diagram - Actor
+	- Anything that needs to interact with the system to exchange information
+		- Could be a human, an organization, another information system, 
+		  an external device, or even time
+	- Labelled with role (noun)
+	- Outside system boundary
+	- Can be associated with other actors
+Types of actors
+	- Primary business actor 
+		- The stakeholder that primarily benefits from the execution of the use case.
+		- e.g. the employee receiving the paycheck
+	- Primary system actor
+		- The stakeholder that directly interfaces with the system or to initiate or 
+		  trigger the business or system event.
+	- External server actor
+		- The stakeholder that responds to a request from the use case. 
+		- e.g. the credit bureau authorizing a credit card charge
+	- External receiver actor
+		- The stakeholder that is not the primary actor but receives something of value from the use case
+		- e.g. warehouse receiving a package slip.
+Use Case Diagram - Association
+	- Association - a relationship between an actor and a use case in which an interaction occurs between them
+		- Association modeled as a solid line connecting the actor and the use case.
+		- Associations may be bidirectional or unidirectional
+	- Association with an arrowhead touching the use case indicated that the use case was initiated by the actor
+	- Association lacking arrowhead indicates a receiver actor
+Major steps writing use-cases 
+	1. Identify business actors
+	2. Identify the major use-cases
+	3. Expand the major use-case
+	4. Confirm the major use-cases
+	5. Create the use-case diagram
+Identify Business Actor
+	- When looking for actors, ask the following questions:
+		- Who or what provides inputs to the system?
+		- Who or what receives outputs from the system?
+		- Are interfaces required to other systems?
+		- Are there events that are automatically triggered at a predetermined time?
+		- Who will maintain information in the system
+	- Each actor must have a role associated (a noun describing the role)
+	- Each actor must have a brief (2-3 scentences) description of the role
+	- Can identify goals of each actor in description
+	- Documents in a table with description
+Identifying the major Use-cases
+	- Identify the system boundaries
+	- Identify and write the major use-cases
+	- Each use case has a verb-noun name and a brief description
+	- Carefully review use-cases
+Identifying Major Use Cases
+	- When looking for use cases, ask the following questions
+		- What are the main tasks of the actor
+		- What information does the actor need from the system
+		- What information does the actor provide to the system
+		
+		CRUD analysis technique (create, read/report, update, delete) to ensure coverage
+		
+	- More questions
+		- Does the system need to inform the actor of any changes or events that have occured?
+		- Does the actor need to inform the system of any changes or events that have occured?
+Expand the Major Use-cases
+	- Choose one major use-case to expand 
+	- Fill in details on the use-case template or use-case description
+	- Fill in the steps of the normal flow of events
+	- Normalize the size of each step
+	- Describe alternate or exceptional flows
+	- Create sub-flows as necessary
+	- Simplify and organize as necessary
+Confirm the Major Use Cases
+		- Review the current set
+			- Consider semantics and syntax
+			- Helpful to involve the users
+		- Iterate the entire set of steps until all use cases are defined
+Create the Use-Case Diagram
+	1. Start with system boundary
+	2. Place use cases on the diagram
+	3. Place actors on the diagram
+	4. Connect the actors to use cases by association lines
+Benefits of Use-Case Modelling
+	- Provides a tool for capturing functional requirements
+	- Assists in decomposing system scope into more managable pieces
+	- Provides a means of communicating with users and other stakeholders 
+	  concerning system functionality in a language that is easily understood.
+	- Provides a means of identifying, assigning, tracking, controlling, 
+	  and management system development activities, especially incremental and iterative development.
+	- Provides an aid in estimating project scope, effort, and schedule.
+	- Provides a baseline for testing in terms of defining test plans and test cases.
+<<Uses>> or <<Includes>> Relationship
+	- Includes = reuse of functionality (i.e. the included functionality is used or could be 
+	  used elsewhere in the system). Include therefore denotes a dependency on another use case.
+<<Extends>> Relationship
+	- Extends = adding (not reusing) functionality and also any optional functionality. 
+	  Extends therefore can denote one of two things: 
+		1. adding new features/capabilities to a use case (optional or not)
+		2. any optional use cases (existing or not).
+<<Includes>> or <<Extends>>
+	- What the difference?
+		- Includes: used to extract use case fragments that are duplicated in multiple use cases.
+		- Extends: used when a use case adds steps to another first class use case. 
+Use Case Inheritance Relationship
+	- Inheritance - a use case relationship in which the common behaviour of two actors initiating 
+	  the common behaviour of two actors initiating the same use case is extrapolated and assigned 
+	  to a new abstract actor to reduce redundancy
+		- Other actors can inherit the interactions of the abstract actor
+		- Depicted as an arrowheaded line beginning at one actor and pointing to the abstract actor
+		  whose interactions the first actor inherits
+Benefits of Use-Case modeling 
+	- Provides a baseline for user help systems and manuals as well as system development documentation.
+	- Provides a tool for requirements traceability.
+	- Provides a starting point for the identification of data objects or entities.
+	- Provides functional specifications for designing user and system interfaces.
+	- Provides a means of defining database access requirements.
+	- Provides a framework for driving the system development project.
+
+------------------------------------------------------------------------------------------------------
+-- Use Case Narratives
+------------------------------------------------------------------------------------------------------
+Key 
+	- A use case illustrates the activities that are performed by users of a system.
+	- Use cases are logical models -- they describe the activities of a system without 
+	  specifying how the activities are implemented.
+Use Case Desriptions
+	- Describe basic functions of the system
+		- What the user can do
+		- How the system responds
+	- Use cases are building blocks for continued design activities
+	- Step-by-step narrative
+	- Has a clear beginning "The use case start when..."
+	- Is a dialogue "The system does this... The actor does that"
+	- Has a clear end "The system does this..., the use case ends"
+	- Two steps:	
+		1. Write text-based case descriptions
+		2. Translate descriptions into diagram
+	- Describes one and only one function, but may have multiple (alternate) paths
+	- Developed working with users for content
+Types of Use Cases
+	- Overview versus detail
+		- High level requirements (name, actors, brief description versus details of all 
+		  the information needed for the use case (primary flow, alternate flows, etc)
+	- Essential versus real
+		- Describes the minimum details needed to understand the functionality versus 
+		  going further to describe the specifi set of steps.
+Relational Use Case Description
+	1. Use Case Name
+	2. Brief Description - 2-3 sentences
+	3. Primary Actor(s)/Roles(s)
+	4. Pre-conditions
+	5. Basic flow
+	6. Alternate flows
+	7. Sub-flows
+	8. Post Conditions
+	9. Special Requirements 
+Prioritizing Use Cases
+	- High, Medium or Low depending on: 
+		- Importance to business process
+		- Support of revenue generation or cost reduction
+		- Technology needed to support needs research
+		- Complex, risky or time critical functionality
+		- Increase in understanding of design relative to effort in writing use case
+	- Assign number 0–5 to each criterion
+	- Higher the number, higher the priority
+Use Case Name and Description
+	- Descriptive, verb-noun format
+	- Description only a few sentences
+	- State what it is and why it exists
+	- e.g. "Get Call History"
+		- The use case Get Call History provides the Customer with the ability to 
+		  access the details of all of the calls that have been charged to their account.  
+		  This call history is available in both text and audio format.
+Flow of Events	
+	- Flow of events is the most important part of the use case description
+	- Basic or Normal Flow
+		- Normal, expected path (“happy path”)
+	- Alternative Flows
+		- Less common, optional behaviour or error conditions
+	- Sub-flows
+		- Self-contained, named sections with their own, clear, purpose 
+Defining Flow of Events
+	- Describe how the flow begins and ends
+		- “The use case starts when the… …the use case ends”
+	- Describe what is exchanged
+		- Use the glossary
+	- Do not describe the user interface
+		- Good “when the customer selects to browse”
+		- BAD “when the customer clicks the link to browse”
+
+Slide 13
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+

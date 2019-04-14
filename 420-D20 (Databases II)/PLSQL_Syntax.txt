@@ -1,0 +1,160 @@
+PLSQL 
+-- Anonymous block
+[DECLARE]
+	//Declare [and instantiate] variables
+BEGIN
+	//WORK
+[EXCEPTION]
+	//Catch your excpetions
+END;
+
+- IF statement
+	IF (statement x) THEN
+		//WORK
+	ELSIF (statement y) THEN
+		//WORK
+	ELSE 
+		//WORK
+	END IF;
+
+- Basic LOOP
+	LOOP
+		//WORK
+		EXIT WHEN (statement x);
+		//WORK		
+	END LOOP;
+	
+	
+- WHILE LOOP
+	WHILE (statement x) LOOP
+		//WORK
+	END LOOP;
+	
+- FOR LOOP
+	FOR x in 1..10 LOOP
+		//WORK
+	END LOOP;
+	
+	FOR lrec IN lcur LOOP
+		//WORK
+	END LOOP;
+	
+- Stored PROCEDURE
+Create [or replace] procedure procedureName_protectionLevel 
+[(
+	input and output variables 
+)] AS
+	[declare [and instantiate] variables]
+BEGIN 
+	//WORK
+[EXCEPTION]
+	WHEN EXCEPTION THEN
+		//HANDLE
+END;
+
+- Functions
+CREATE [OR REPLACE] Function functionName_protectionLevel
+[(
+	input parameters
+)] return DATATYPE
+AS
+	[LOCAL VARIABLES]
+BEGIN
+	//WORK
+EXCEPTION
+	//HANDLE
+END;
+
+- PACKAGES
+//PACKAGE SPEC
+Create [or replace] package package_name AS 
+	//Anything declared in the spec will be public 
+	procedure x (
+		var_1 	  number,
+		var_2 out string
+	);
+END package_name;
+
+CREATE OR REPLACE PACKAGE BODY package_name AS
+	//publically accessible calling the package
+	procedure x (
+		var_1 number,
+		var_2 string
+	) AS
+	BEGIN
+		var_2 := y(number);
+		//DO SOMETHING
+	END;
+
+	//private to package body
+	FUNCTION y (
+		inputparam number
+	) return string AS
+	BEGIN 
+		return ('The number is ' || inputparam);
+	END;
+);
+	
+- Cursors
+DECLARE
+	Cursor lcur AS
+		SELECT * FROM table_name;
+	lrec lcur%ROWTYPE;
+BEGIN
+	OPEN lcur;
+	fetch lcur into lrec;
+	LOOP
+		EXIT WHEN lrec%NOTFOUND;
+		FETCH lcur INTO lrec;
+	END LOOP;
+	CLOSE Lcur;
+END;	
+
+DECLARE 
+	Cursor lcur AS 
+		SELECT * FROM table_name;
+BEGIN
+	FOR lrec in lcur LOOP
+		dbms_output.put_line(lrec.col);
+	END LOOP;
+END;
+
+- TRIGGERS
+CREATE [Or replace] TRIGGER trigger_name
+{BEFORE | AFTER} {insert [OR] | update [OR] | delete}
+[Of columns_name] ON TABLE_NAME
+[REFERENCING OLD AS o NEW AS n] [FOR EACH ROW] [WHEN (condition)]
+BEGIN
+	//WORK
+EXCEPTION
+	//HANDLE
+END;
+	
+- SYS_REFCURSOR
+CREATE [OR REPLACE] PROCEDURE proc_name (
+	owner_number IN  number,
+	pets		 OUT SYS_REFCURSOR
+) AS 
+BEGIN 
+	OPEN pets FOR 
+		SELECT * 
+		FROM HVK_PET 
+		WHERE OWN_OWNER_NUMBER = owner_number;
+END;
+
+DECLARE 
+	lcur SYS_REFCURSOR;
+	lv_pet varchar(25);
+BEGIN
+	proc_name(owner_number => 99, 
+			pets => lcur);
+			
+	FOR lrec IN lcur LOOP
+		//WORK
+	END LOOP;
+END;
+	
+	
+	
+
+

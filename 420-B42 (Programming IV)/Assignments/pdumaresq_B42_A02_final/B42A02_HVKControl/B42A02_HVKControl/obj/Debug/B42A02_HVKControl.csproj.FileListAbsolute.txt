@@ -1,0 +1,9 @@
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\B42A02_HVKControl\bin\Debug\B42A02_HVKControl.dll
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\B42A02_HVKControl\bin\Debug\B42A02_HVKControl.pdb
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\B42A02_HVKControl\bin\Debug\PD_HVK.dll
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\B42A02_HVKControl\bin\Debug\PD_HVK.pdb
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\B42A02_HVKControl\obj\Debug\B42A02_HVKControl.dll
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\B42A02_HVKControl\obj\Debug\B42A02_HVKControl.pdb
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\B42A02_HVKControl\bin\Debug\stubMethods.dll
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\B42A02_HVKControl\bin\Debug\stubMethods.pdb
+C:\Users\phdum\Documents\all\prog\pdumaresq_B42_A02\B42A02_HVKControl\B42A02_HVKControl\obj\Debug\B42A02_HVKControl.csprojResolveAssemblyReference.cache

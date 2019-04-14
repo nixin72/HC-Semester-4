@@ -1,0 +1,11 @@
+S:\all\DB\pdumaresq_D20_A04\pdumaresq_E21_A04_avg_per_week\pdumaresq_E21_A04_avg_per_week\bin\Debug\pdumaresq_E21_A04_avg_per_week.exe.config
+S:\all\DB\pdumaresq_D20_A04\pdumaresq_E21_A04_avg_per_week\pdumaresq_E21_A04_avg_per_week\bin\Debug\pdumaresq_E21_A04_avg_per_week.exe
+S:\all\DB\pdumaresq_D20_A04\pdumaresq_E21_A04_avg_per_week\pdumaresq_E21_A04_avg_per_week\bin\Debug\pdumaresq_E21_A04_avg_per_week.pdb
+S:\all\DB\pdumaresq_D20_A04\pdumaresq_E21_A04_avg_per_week\pdumaresq_E21_A04_avg_per_week\bin\Debug\HvkBLL.dll
+S:\all\DB\pdumaresq_D20_A04\pdumaresq_E21_A04_avg_per_week\pdumaresq_E21_A04_avg_per_week\bin\Debug\HvkDB.dll
+S:\all\DB\pdumaresq_D20_A04\pdumaresq_E21_A04_avg_per_week\pdumaresq_E21_A04_avg_per_week\bin\Debug\Oracle.ManagedDataAccess.dll
+S:\all\DB\pdumaresq_D20_A04\pdumaresq_E21_A04_avg_per_week\pdumaresq_E21_A04_avg_per_week\bin\Debug\HvkBLL.pdb
+S:\all\DB\pdumaresq_D20_A04\pdumaresq_E21_A04_avg_per_week\pdumaresq_E21_A04_avg_per_week\bin\Debug\HvkDB.pdb
+S:\all\DB\pdumaresq_D20_A04\pdumaresq_E21_A04_avg_per_week\pdumaresq_E21_A04_avg_per_week\obj\Debug\pdumaresq_E21_A04_avg_per_week.csprojResolveAssemblyReference.cache
+S:\all\DB\pdumaresq_D20_A04\pdumaresq_E21_A04_avg_per_week\pdumaresq_E21_A04_avg_per_week\obj\Debug\pdumaresq_E21_A04_avg_per_week.exe
+S:\all\DB\pdumaresq_D20_A04\pdumaresq_E21_A04_avg_per_week\pdumaresq_E21_A04_avg_per_week\obj\Debug\pdumaresq_E21_A04_avg_per_week.pdb

@@ -1,0 +1,13 @@
+Data controls:
+	- layer of abstraction etween the DB and the BL
+	- Many advantages of layers:
+	- All controls derive from the same control class
+		- Work just like all other server controls
+	
+	There are 6 data source controls that you can use to bind data to your data bound controls
+	- SqlDataSource
+	- LinqDataSource
+	- ObjectDataSource
+	- XmlDataSource
+	- SiteMapDataSource
+	- EntityDataSource

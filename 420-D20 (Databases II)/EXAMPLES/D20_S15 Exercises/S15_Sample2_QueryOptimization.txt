@@ -1,0 +1,71 @@
+--- S15 - Query Optimization - Sample 2
+--- Optimizing on Sample1
+
+--- create a table that we can play with for the optimization (don't mutate the original hvk_pet)
+--- this also populates it with data
+create table hvk_pet_opt as select * from hvk_pet;
+
+---
+--- merge in our handy data
+---
+alter table hvk_pet_opt
+add ( missing_vaccinations integer,
+    vaccinations_unvalidated integer,
+    earliest_vacc_expiry_date date);
+merge into  hvk_pet_opt t1
+using (
+SELECT 
+      p.pet_number, p.pet_name,
+      ( SELECT COUNT (vaccination_number)
+          FROM hvk_vaccination
+      )
+      - COUNT (vp.vacc_vaccination_number) as Missing_Vaccinations,
+      MIN(vp.vaccination_expiry_date)  as EARLIEST_VACC_EXPIRY_DATE,
+      SUM (
+        CASE
+          WHEN vp.VACCINATION_CHECKED_STATUS = 'N'
+          THEN 1
+          ELSE 0
+        END )as VACCINATIONS_UNVALIDATED
+  FROM  hvk_pet p
+  LEFT JOIN hvk_pet_vaccination vp
+ ON p.pet_number = vp.pet_pet_number
+GROUP BY   p.pet_number, p.pet_name
+  HAVING
+  ( SELECT COUNT (vaccination_number)
+    FROM hvk_vaccination
+  )
+  - COUNT (vp.vacc_vaccination_number) > 0
+OR MIN( vp.vaccination_expiry_date ) < SYSDATE
+OR SUM (
+    CASE
+      WHEN vp.VACCINATION_CHECKED_STATUS = 'N'
+      THEN 1
+      ELSE 0
+    END) > 0) t2
+    on 
+(t1.pet_number = t2.pet_number)
+when matched then update set
+t1.Missing_Vaccinations = t2.missing_vaccinations,
+t1.EARLIEST_VACC_EXPIRY_DATE = t2.EARLIEST_VACC_EXPIRY_DATE,
+t1.VACCINATIONS_UNVALIDATED = t2.VACCINATIONS_UNVALIDATED;
+
+---
+--- new improved query
+--- What's the cost efficiency of this?
+--- Explain plan
+SELECT o.owner_first_name || ' ' || o.owner_last_name "Owner",
+       '(' || SUBSTR (o.owner_phone, 1, 3) || ') '
+       || SUBSTR (o.owner_phone, 4, 3)
+       || '-' || SUBSTR (o.owner_phone, 7) "Phone Number",
+       p.pet_name,
+       p.missing_VACCINATIONS "Missing" ,
+       p.earliest_vacc_expiry_date "Earliest Vaccination",
+       p.VACCINATIONS_UNVALIDATED "Not validated"
+  FROM hvk_owner o
+  JOIN hvk_pet_opt p
+    ON o.owner_number = p.own_owner_number
+ WHERE p.earliest_vacc_expiry_date < SYSDATE
+    OR p.missing_vaccinations     > 0
+    OR p.vaccinations_unvalidated > 0 ;
+

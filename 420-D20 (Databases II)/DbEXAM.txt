@@ -1,0 +1,25 @@
+Indexes: What is it?
+	A data structure that allows you to find a value within a table. 
+Types: Unique/non-unique
+Compare to primary keys
+
+Identify costs/vs/benefits
+	When it helps and when it doesn't. 
+	
+CRUD Matrix
+What is it?
+	A table that shows the order in which a business process looks through tables in the database. 
+Why do it? 
+	Helps you optimize your queries and see the costs or all your business logic. 
+Syntax
+	C(x)
+	R(x) - sR(x) / dR(x)
+	U(x)
+	D(x)
+	
+Other optimization techniques:
+	Moving histroical data out to another table
+	
+	
+	
+	

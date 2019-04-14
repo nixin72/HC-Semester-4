@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../B42A02_HVKControl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../stubMethods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../TestControlMethods" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../B42A02_HVKControl/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../B42A02_HVKControl/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TestControlMethods/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TestControlMethods/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+      <excludeFolder url="file://$MODULE_DIR$/../../stubMethods/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../stubMethods/obj" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

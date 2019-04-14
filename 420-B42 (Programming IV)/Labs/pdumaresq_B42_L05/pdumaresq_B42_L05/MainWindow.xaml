@@ -1,0 +1,29 @@
+﻿<Window x:Class="pdumaresq_B42_L05.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pdumaresq_B42_L05"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="441.891" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:dsOwner x:Key="dsOwner"/>
+        <CollectionViewSource x:Key="hVK_OWNERViewSource" Source="{Binding HVK_OWNER, Source={StaticResource dsOwner}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource hVK_OWNERViewSource}">
+        <DataGrid x:Name="hVK_OWNERDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn x:Name="oWNER_FIRST_NAMEColumn" Header="FIRST NAME" Width="SizeToHeader">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Label Content="{Binding OWNER_FIRST_NAME}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="oWNER_LAST_NAMEColumn" Binding="{Binding OWNER_LAST_NAME}" Header="LAST NAME" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="oWNER_PHONEColumn" Binding="{Binding OWNER_PHONE}" Header="PHONE NUMBER" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="oWNER_EMAILColumn" Binding="{Binding OWNER_EMAIL}" Header="EMAIL ADDRESS" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

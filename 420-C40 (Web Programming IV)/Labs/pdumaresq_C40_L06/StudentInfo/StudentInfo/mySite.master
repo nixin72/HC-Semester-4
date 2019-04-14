@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="mySite.master.cs" Inherits="StudentInfo.mySite" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <style>
+        #header {
+            display: flex;
+            background-color: blue;
+        }
+
+        #header h1 {
+            margin: 3px
+        }
+        #header h2 {
+            margin: 10px
+        }
+
+        #footer {
+            text-align: center;
+            bottom: 0;
+            position: fixed;
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1>
+            Indo-US College - 
+        </h1>
+        <h2>
+            Caring About Your Education.
+        </h2>
+    </div>
+    <form id="form1" runat="server">
+    <div> 
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+
+    <div id="footer">
+        <h4>To contact us, call us at 819-555-0400 or email us a survey@indous.com</h4>
+    </div>
+</body>
+</html>

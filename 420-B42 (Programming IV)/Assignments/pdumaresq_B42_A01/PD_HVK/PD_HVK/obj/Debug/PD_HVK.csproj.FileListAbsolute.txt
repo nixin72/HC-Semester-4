@@ -1,0 +1,5 @@
+E:\programmingStuff\ASP.NET\pdumaresq_B42_A01_classLibrary\PD_HVK\PD_HVK\bin\Debug\PD_HVK.dll
+E:\programmingStuff\ASP.NET\pdumaresq_B42_A01_classLibrary\PD_HVK\PD_HVK\bin\Debug\PD_HVK.pdb
+E:\programmingStuff\ASP.NET\pdumaresq_B42_A01_classLibrary\PD_HVK\PD_HVK\obj\Debug\PD_HVK.csprojResolveAssemblyReference.cache
+E:\programmingStuff\ASP.NET\pdumaresq_B42_A01_classLibrary\PD_HVK\PD_HVK\obj\Debug\PD_HVK.dll
+E:\programmingStuff\ASP.NET\pdumaresq_B42_A01_classLibrary\PD_HVK\PD_HVK\obj\Debug\PD_HVK.pdb

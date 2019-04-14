@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HulkHvkA03", "HulkHvkA03\HulkHvkA03.csproj", "{6959E54C-7CA1-416E-92EB-349887EAED8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PD_HVK1", "..\..\prog\pdumaresq_B42_A01_classLibrary\PD_HVK\pdumaresq_B42_A01\PD_HVK1.csproj", "{D28D95CA-B18E-425D-9925-0AF88D2D2BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6959E54C-7CA1-416E-92EB-349887EAED8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6959E54C-7CA1-416E-92EB-349887EAED8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6959E54C-7CA1-416E-92EB-349887EAED8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6959E54C-7CA1-416E-92EB-349887EAED8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D28D95CA-B18E-425D-9925-0AF88D2D2BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28D95CA-B18E-425D-9925-0AF88D2D2BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28D95CA-B18E-425D-9925-0AF88D2D2BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28D95CA-B18E-425D-9925-0AF88D2D2BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://cstfs.cegep-heritage.qc.ca:8080/tfs/c40finalassignment
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HulkHvkA03\\HulkHvkA03.csproj
+		SccProjectName1 = HulkHvkA03
+		SccLocalPath1 = HulkHvkA03
+		SccProjectUniqueName2 = ..\\..\\prog\\pdumaresq_B42_A01_classLibrary\\PD_HVK\\pdumaresq_B42_A01\\PD_HVK1.csproj
+		SccProjectName2 = PD_HVK
+		SccLocalPath2 = ..\\..\\prog\\pdumaresq_B42_A01_classLibrary\\PD_HVK\\pdumaresq_B42_A01
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿body {
+}
+
+.contentClass {
+    background-color: cornflowerblue;
+    padding: 1%;
+    border: thin solid black;
+}
+
+.headerClass {
+    background-color: cadetblue;
+    padding: 1%;
+    border: thin solid black;
+    margin-top: 1%;
+}
+
+.headerSelected {
+    background-color: darkslategray;
+    padding: 1%;
+    border: thin solid black;
+    margin-top: 1%;
+}

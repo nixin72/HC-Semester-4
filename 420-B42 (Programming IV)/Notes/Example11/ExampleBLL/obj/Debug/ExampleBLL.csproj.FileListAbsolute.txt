@@ -1,0 +1,8 @@
+H:\Prog IV\Labs\Example11\ExampleBLL\bin\Debug\ExampleBLL.dll
+H:\Prog IV\Labs\Example11\ExampleBLL\bin\Debug\ExampleBLL.pdb
+H:\Prog IV\Labs\Example11\ExampleBLL\bin\Debug\ExampleDB.dll
+H:\Prog IV\Labs\Example11\ExampleBLL\bin\Debug\Oracle.ManagedDataAccess.dll
+H:\Prog IV\Labs\Example11\ExampleBLL\bin\Debug\ExampleDB.pdb
+H:\Prog IV\Labs\Example11\ExampleBLL\obj\Debug\ExampleBLL.csprojResolveAssemblyReference.cache
+H:\Prog IV\Labs\Example11\ExampleBLL\obj\Debug\ExampleBLL.dll
+H:\Prog IV\Labs\Example11\ExampleBLL\obj\Debug\ExampleBLL.pdb

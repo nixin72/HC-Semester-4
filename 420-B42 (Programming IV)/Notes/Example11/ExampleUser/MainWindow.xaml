@@ -1,0 +1,20 @@
+﻿<Window x:Class="ExampleUser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExampleUser"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="id" HorizontalAlignment="Left" Height="23" Margin="150,28,0,0" TextWrapping="Wrap" Text="empId" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="lname" HorizontalAlignment="Left" Height="24" Margin="150,74,0,0" TextWrapping="Wrap" Text="lname" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="fname" HorizontalAlignment="Left" Height="22" Margin="150,122,0,0" TextWrapping="Wrap" Text="fname" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="sal" HorizontalAlignment="Left" Height="22" Margin="150,174,0,0" TextWrapping="Wrap" Text="salary" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="comm" HorizontalAlignment="Left" Height="23" Margin="150,223,0,0" TextWrapping="Wrap" Text="commission" VerticalAlignment="Top" Width="120"/>
+        
+        
+        <Button x:Name="update" Click="update_Click"  Content="Button" HorizontalAlignment="Left" Margin="150,274,0,0" VerticalAlignment="Top" Width="76"/>
+
+    </Grid>
+</Window>

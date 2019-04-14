@@ -1,0 +1,43 @@
+Validation
+- Email: Regex
+- Credit number: Custom
+- Name field: Required field validator
+- Where to do it? Client or server?
+- Remember that line in the Web.config
+ 
+ 
+User interface and Error design
+ 
+ 
+State tracking
+- Cookies
+	- Instantiate HttpCookie
+	- Set values
+	- Add it to Request.Cookies
+- Sessions
+	- Session["Key"] = value
+- Viewstate (hidden field in form - client side)
+	- Used the exact same as Sessions. Exist only on client. Gone when user leaves page, unlike Sessions
+	
+AutoPostBack
+	- The thing that makes us cry 
+	
+	
+	
+Online
+-----------------------------------------------------
+
+1
+-----------------------------------------------------
+	- Master page
+	- Class
+	- Validation controls
+		- Range on calendar
+
+2
+-----------------------------------------------------
+	- Data access using SQL data source
+	
+3
+-----------------------------------------------------
+	- Data access using layers

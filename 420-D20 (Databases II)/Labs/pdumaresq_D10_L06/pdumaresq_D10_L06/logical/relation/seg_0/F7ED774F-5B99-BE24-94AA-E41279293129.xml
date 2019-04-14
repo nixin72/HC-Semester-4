@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="physician_to_patient" directorySegmentName="seg_0" id="F7ED774F-5B99-BE24-94AA-E41279293129">
+<createdBy>1523066</createdBy>
+<createdTime>2016-09-12 19:45:40 UTC</createdTime>
+<ownerDesignName>pdumaresq_D10_L06</ownerDesignName>
+<engineerTo>
+<item key="F09FAB16-F32C-7E4D-A1F8-EEE6CA87F8A0" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<nameOnSource>admits</nameOnSource>
+<nameOnTarget>Is admitted by</nameOnTarget>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>BBCD3474-3584-EFE6-119C-DFAC519233B8</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>910675C2-0224-E67E-9822-882231724BD4</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

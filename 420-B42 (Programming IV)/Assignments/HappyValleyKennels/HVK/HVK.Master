@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HVK.Master.cs" Inherits="HVKA03.HVK" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div id="banner">
+        <div id="promo">
+            <h2>Happy Valley Kennels </h2>
+            <p>A Paws-a-tively Perfect Place</p>
+        </div>
+        <div id="nav" runat="server">
+            <ul>
+                <li id="navHome" runat="server" class="navItm">
+                    <a class="navLink" href="Home.aspx">Home</a>
+                </li>
+                <li id="navCustomer" runat="server" class="navItm">
+                    <a class="navLink" href="ManageCustomer.aspx">My Account</a>
+                </li>
+                <li id="navLogout" runat="server" class="navItm">
+                    <a class="navLink" href="Default.aspx">Logout</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <asp:ContentPlaceHolder ID="pageTitle" runat="server">
+    </asp:ContentPlaceHolder>
+
+
+    <div id="cont">
+        <form runat="server" id="form">
+            <asp:HiddenField runat="server" ID="hdnIsEmployee" />
+            <asp:ContentPlaceHolder ID="contPageContent" runat="server"> 
+            </asp:ContentPlaceHolder>
+        </form>
+    </div>
+    
+    
+    <div id="footer">
+        <p>Happy Valley Kennels</p>
+        <hr style="border-color: black" />
+        <p>Web Master Hulk</p>
+    </div>
+</body>
+</html>

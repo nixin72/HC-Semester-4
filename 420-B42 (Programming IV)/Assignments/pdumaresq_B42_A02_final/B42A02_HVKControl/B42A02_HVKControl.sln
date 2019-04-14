@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B42A02_HVKControl", "B42A02_HVKControl\B42A02_HVKControl.csproj", "{AF63A4B0-6003-431E-AD70-8F4333E85AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestControlMethods", "TestControlMethods\TestControlMethods.csproj", "{461954A7-7D2F-40E3-9843-5DB4F67B85AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stubMethods", "stubMethods\stubMethods.csproj", "{36074239-309C-4380-8FCC-37D027D484CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF63A4B0-6003-431E-AD70-8F4333E85AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF63A4B0-6003-431E-AD70-8F4333E85AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF63A4B0-6003-431E-AD70-8F4333E85AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF63A4B0-6003-431E-AD70-8F4333E85AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461954A7-7D2F-40E3-9843-5DB4F67B85AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461954A7-7D2F-40E3-9843-5DB4F67B85AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461954A7-7D2F-40E3-9843-5DB4F67B85AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461954A7-7D2F-40E3-9843-5DB4F67B85AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36074239-309C-4380-8FCC-37D027D484CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36074239-309C-4380-8FCC-37D027D484CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36074239-309C-4380-8FCC-37D027D484CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36074239-309C-4380-8FCC-37D027D484CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

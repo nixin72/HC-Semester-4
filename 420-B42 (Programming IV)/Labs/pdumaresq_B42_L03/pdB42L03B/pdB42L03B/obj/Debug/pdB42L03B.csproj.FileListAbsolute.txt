@@ -1,0 +1,9 @@
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdB42L03B\pdB42L03B\bin\Debug\pdB42L03B.dll
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdB42L03B\pdB42L03B\bin\Debug\pdB42L03B.pdb
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdB42L03B\pdB42L03B\bin\Debug\BankLibrary.dll
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdB42L03B\pdB42L03B\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdB42L03B\pdB42L03B\bin\Debug\BankLibrary.pdb
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdB42L03B\pdB42L03B\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdB42L03B\pdB42L03B\obj\Debug\pdB42L03B.csprojResolveAssemblyReference.cache
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdB42L03B\pdB42L03B\obj\Debug\pdB42L03B.dll
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdB42L03B\pdB42L03B\obj\Debug\pdB42L03B.pdb

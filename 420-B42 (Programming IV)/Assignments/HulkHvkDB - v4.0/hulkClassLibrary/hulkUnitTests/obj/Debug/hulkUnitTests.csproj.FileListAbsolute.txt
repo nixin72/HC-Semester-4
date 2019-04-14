@@ -1,0 +1,5 @@
+C:\Users\Alex\Google Drive\Classes\Heritage\Semester 04\420-B42-HR - Programming\Assignments\Assignment 03\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTests\bin\Debug\hulkUnitTests.dll
+C:\Users\Alex\Google Drive\Classes\Heritage\Semester 04\420-B42-HR - Programming\Assignments\Assignment 03\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTests\bin\Debug\hulkUnitTests.pdb
+C:\Users\Alex\Google Drive\Classes\Heritage\Semester 04\420-B42-HR - Programming\Assignments\Assignment 03\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTests\obj\Debug\hulkUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Google Drive\Classes\Heritage\Semester 04\420-B42-HR - Programming\Assignments\Assignment 03\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTests\obj\Debug\hulkUnitTests.dll
+C:\Users\Alex\Google Drive\Classes\Heritage\Semester 04\420-B42-HR - Programming\Assignments\Assignment 03\pdumaresq_B42_A03\hulkClassLibrary\hulkUnitTests\obj\Debug\hulkUnitTests.pdb

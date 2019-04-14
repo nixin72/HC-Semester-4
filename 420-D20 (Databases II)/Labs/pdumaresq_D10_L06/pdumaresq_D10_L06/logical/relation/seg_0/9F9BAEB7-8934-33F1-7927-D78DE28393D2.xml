@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Patient_to_nurse" directorySegmentName="seg_0" id="9F9BAEB7-8934-33F1-7927-D78DE28393D2">
+<createdBy>1523066</createdBy>
+<createdTime>2016-09-12 19:49:18 UTC</createdTime>
+<ownerDesignName>pdumaresq_D10_L06</ownerDesignName>
+<engineerTo>
+<item key="F09FAB16-F32C-7E4D-A1F8-EEE6CA87F8A0" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>06E57204-A25D-188A-C706-469E5CD7F356</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>910675C2-0224-E67E-9822-882231724BD4</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

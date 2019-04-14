@@ -1,0 +1,14 @@
+﻿<Window x:Class="pdumaresq_B42_L05.PartB"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pdumaresq_B42_L05"
+        mc:Ignorable="d"
+        Title="PartB" Height="415" Width="458" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:dsOwnerPet x:Key="dsOwnerPet"/>
+        <CollectionViewSource x:Key="hVK_OWNERViewSource" Source="{Binding HVK_OWNER, Source={StaticResource dsOwnerPet}}"/>
+        <CollectionViewSource x:Key="hVK_PETViewSource" Source="{Binding HVK_PET, Source={StaticResource dsOwnerPet}}"/>
+    </Window.Resources>
+</Window>

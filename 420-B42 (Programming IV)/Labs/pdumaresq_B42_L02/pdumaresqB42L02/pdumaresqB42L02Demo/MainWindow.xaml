@@ -1,0 +1,17 @@
+﻿<Window x:Class="pdumaresqB42L02Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pdumaresqB42L02Demo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="txtParam" HorizontalAlignment="Left" Height="23" Margin="194,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.493,0.48"/>
+        <Button x:Name="btnNumbers" Content="Count numbers" HorizontalAlignment="Left" Margin="72,168,0,0" VerticalAlignment="Top" Width="99" Click="btnNumbers_Click"/>
+        <Button x:Name="CountLetters" Content="Count letters" HorizontalAlignment="Left" Margin="332,168,0,0" VerticalAlignment="Top" Width="100" Click="CountLetters_Click"/>
+        <Button x:Name="countNumbersO" Content="Count numbers (override)" HorizontalAlignment="Left" Margin="176,168,0,0" VerticalAlignment="Top" Width="151" Click="countNumbersO_Click"/>
+        <Label x:Name="lblnstruct" Content="Enter words here:" HorizontalAlignment="Left" Margin="194,42,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblResult" Content="" HorizontalAlignment="Left" Margin="115,235,0,0" VerticalAlignment="Top" Width="265"/>
+    </Grid>
+</Window>

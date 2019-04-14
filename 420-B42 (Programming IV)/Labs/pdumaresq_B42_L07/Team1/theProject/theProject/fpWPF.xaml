@@ -1,0 +1,9 @@
+﻿<Window x:Class="theProject.fpWPF"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="fpWPF" Height="300" Width="300">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="85,10,0,0" TextWrapping="Wrap" Text="Francis Pilon" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

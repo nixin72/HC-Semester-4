@@ -1,0 +1,43 @@
+﻿<Window x:Class="pdumaresq_B42_T02Study.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pdumaresq_B42_T02Study"
+        mc:Ignorable="d"
+        Title="Window1" Height="291.465" Width="1093.741" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:dsPetOwner x:Key="dsPetOwner"/>
+        <CollectionViewSource x:Key="hVK_OWNERViewSource" Source="{Binding HVK_OWNER, Source={StaticResource dsPetOwner}}"/>
+        <CollectionViewSource x:Key="hVK_PETViewSource" Source="{Binding HVK_PET, Source={StaticResource dsPetOwner}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource hVK_OWNERViewSource}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="211*"/>
+            <ColumnDefinition Width="845*"/>
+            <ColumnDefinition Width="31*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="hVK_OWNERDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="10,35,499.268,36" RowDetailsVisibilityMode="VisibleWhenSelected" Grid.ColumnSpan="2">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="oWNER_FIRST_NAMEColumn" Binding="{Binding OWNER_FIRST_NAME}" Header="OWNER FIRST NAME" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="oWNER_LAST_NAMEColumn" Binding="{Binding OWNER_LAST_NAME}" Header="OWNER LAST NAME" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="oWNER_PHONEColumn" Binding="{Binding OWNER_PHONE}" Header="OWNER PHONE" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="eMERGENCY_CONTACT_PHONEColumn" Binding="{Binding EMERGENCY_CONTACT_PHONE}" Header="EMERGENCY CONTACT PHONE" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="hVK_PETDataGrid" AutoGenerateColumns="False" Grid.Column="1" EnableRowVirtualization="True" ItemsSource="{Binding Source={StaticResource hVK_PETViewSource}}" Margin="367.667,33,361.268,39" RowDetailsVisibilityMode="VisibleWhenSelected" RenderTransformOrigin="0.5,0.5">
+            <DataGrid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.428"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="2.127"/>
+                </TransformGroup>
+            </DataGrid.RenderTransform>
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="pET_NAMEColumn" Binding="{Binding PET_NAME}" Header="PET NAME" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PD_HVK.master.cs" Inherits="pdumaresq_C40_A02.PD_HVK" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div id="banner">
+        <div id="promo">
+            <h2>Happy Valley Kennels</h2>
+        </div>
+        <div id="nav">
+            <ul>
+                <li id="navHome" runat="server" class="navItm">
+                    <a class="navLink" href="Home.aspx">Home</a>
+                </li>
+                <li id="navReservations" runat="server" class="navItm">
+                    <a class="navLink" href="ManageReservations.aspx">Reservations</a>
+                </li>
+                <li id="navPets" runat="server" class="navItm">
+                    <a class="navLink" href="ManagePets.aspx">Pets</a>
+                </li>
+                <li id="navCustomer" runat="server" class="navItm">
+                    <a class="navLink" href="ManageCustomer.aspx">My Account</a>
+                </li>
+                <li class="profile">
+                    <a href="Default.aspx">
+                        <img src="images/defaultProfile.png" alt="profile picture" width="30" height="30" />
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <asp:ContentPlaceHolder ID="pageTitle" runat="server">
+    </asp:ContentPlaceHolder>
+    
+    <div id="cont">
+        <form runat="server" id="form">
+            <asp:HiddenField runat="server" ID="hdnIsEmployee" />
+            <asp:ContentPlaceHolder ID="contPageContent" runat="server"> 
+            </asp:ContentPlaceHolder>
+        </form>
+    </div>
+    
+    
+    <div id="footer">
+        <p>Happy Valley Kennels</p>
+        <hr style="border-color: black" />
+        <p>Philip Dumaresq</p>
+    </div>
+</body>
+</html>

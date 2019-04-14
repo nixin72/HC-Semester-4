@@ -1,0 +1,42 @@
+--- S15 - Query Optimization
+--- Take a look at this code
+--- Determine:
+--- 1) What does this SQL do?
+--- 2) how many different tables does it have to traverse to do it's job?
+--- 3) What can you do to make it more efficient?
+
+
+SELECT o.owner_first_name  || ' ' || o.owner_last_name "Owner",
+      '('  || SUBSTR (o.owner_phone, 1, 3)   || ') '
+      || SUBSTR (o.owner_phone, 4, 3)
+      || '-' || SUBSTR (o.owner_phone, 7) "Phone Number",
+      p.pet_name,
+      ( SELECT COUNT (vaccination_number)
+          FROM hvk_vaccination
+      )
+      - COUNT (vp.vacc_vaccination_number) "Missing",
+      MIN(vp.vaccination_expiry_date)  "Earliest Expiry Date",
+      SUM (
+        CASE
+          WHEN vp.VACCINATION_CHECKED_STATUS = 'N'
+          THEN 1
+          ELSE 0
+        END ) "Not Validated"
+  FROM hvk_owner o 
+  JOIN hvk_pet p
+    ON o.owner_number = p.own_owner_number
+  LEFT JOIN hvk_pet_vaccination vp
+ ON p.pet_number = vp.pet_pet_number
+GROUP BY  o.owner_first_name, o.owner_last_name, o.owner_phone, p.pet_name
+  HAVING
+  ( SELECT COUNT (vaccination_number)
+    FROM hvk_vaccination
+  )
+  - COUNT (vp.vacc_vaccination_number) > 0
+OR MIN( vp.vaccination_expiry_date ) < SYSDATE
+OR SUM (
+    CASE
+      WHEN vp.VACCINATION_CHECKED_STATUS = 'N'
+      THEN 1
+      ELSE 0
+    END) > 0;

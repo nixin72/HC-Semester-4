@@ -1,0 +1,17 @@
+﻿<Window x:Class="pdumaresqB42L02Demo.CardGame"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pdumaresqB42L02Demo"
+        mc:Ignorable="d"
+        Title="CardGame" Height="400.261" Width="438.202">
+    <Grid>
+        <Button x:Name="button" Content="Play Game!" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75"/>
+        <ScrollViewer HorizontalAlignment="Left" Height="255" VerticalAlignment="Top" Width="186" Margin="10,105,0,0"/>
+        <ScrollViewer HorizontalAlignment="Left" Height="255" Margin="234,105,0,0" VerticalAlignment="Top" Width="186"/>
+        <Label x:Name="label" Content="Player 1 hand: " HorizontalAlignment="Left" Margin="10,74,0,0" VerticalAlignment="Top" Width="186"/>
+        <Label x:Name="label1" Content="Player 2 hand: " HorizontalAlignment="Left" Margin="234,74,0,0" VerticalAlignment="Top" Width="186"/>
+
+    </Grid>
+</Window>

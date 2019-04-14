@@ -1,0 +1,12 @@
+E:\CopyFilesNOTOS\pdumaresq_B42_A01\pdumaresq_B42_A01\bin\Debug\pdumaresq_B42_A01.dll
+E:\CopyFilesNOTOS\pdumaresq_B42_A01\pdumaresq_B42_A01\bin\Debug\pdumaresq_B42_A01.pdb
+E:\CopyFilesNOTOS\pdumaresq_B42_A01\pdumaresq_B42_A01\obj\Debug\pdumaresq_B42_A01.dll
+E:\CopyFilesNOTOS\pdumaresq_B42_A01\pdumaresq_B42_A01\obj\Debug\pdumaresq_B42_A01.pdb
+E:\programmingStuff\ASP.NET\pdumaresq_B42_A01\pdumaresq_B42_A01\bin\Debug\pdumaresq_B42_A01.dll
+E:\programmingStuff\ASP.NET\pdumaresq_B42_A01\pdumaresq_B42_A01\bin\Debug\pdumaresq_B42_A01.pdb
+E:\programmingStuff\ASP.NET\pdumaresq_B42_A01\pdumaresq_B42_A01\obj\Debug\pdumaresq_B42_A01.dll
+E:\programmingStuff\ASP.NET\pdumaresq_B42_A01\pdumaresq_B42_A01\obj\Debug\pdumaresq_B42_A01.pdb
+G:\programmingStuff\ASP.NET\pdumaresq_B42_A01\pdumaresq_B42_A01\obj\Debug\pdumaresq_B42_A01.dll
+G:\programmingStuff\ASP.NET\pdumaresq_B42_A01\pdumaresq_B42_A01\obj\Debug\pdumaresq_B42_A01.pdb
+G:\programmingStuff\ASP.NET\pdumaresq_B42_A01\pdumaresq_B42_A01\bin\Debug\pdumaresq_B42_A01.dll
+G:\programmingStuff\ASP.NET\pdumaresq_B42_A01\pdumaresq_B42_A01\bin\Debug\pdumaresq_B42_A01.pdb

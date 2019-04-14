@@ -1,0 +1,47 @@
+﻿<Window x:Class="pdumaresq_B42_L04_PartB.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pdumaresq_B42_L04_PartB"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="517">
+            <MenuItem Header="First Color">
+                <MenuItem x:Name="mitmR" Header="red"    StaysOpenOnClick="True" IsCheckable="True" Click="mitmR_Click"></MenuItem>
+                <MenuItem x:Name="mitmB" Header="Blue"   StaysOpenOnClick="True" IsCheckable="True" Click="mitmB_Click"></MenuItem>
+                <MenuItem x:Name="mitmG" Header="Green"  StaysOpenOnClick="True" IsCheckable="True" Click="mitmG_Click"></MenuItem>
+                <MenuItem x:Name="mitmY" Header="Yellow" StaysOpenOnClick="True" IsCheckable="True" Click="mitmY_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Second Color">
+                <MenuItem x:Name="mitmR2" Header="red"    StaysOpenOnClick="True" IsCheckable="True" Click="mitmR2_Click"></MenuItem>
+                <MenuItem x:Name="mitmB2" Header="Blue"   StaysOpenOnClick="True" IsCheckable="True" Click="mitmB2_Click"></MenuItem>
+                <MenuItem x:Name="mitmG2" Header="Green"  StaysOpenOnClick="True" IsCheckable="True" Click="mitmG2_Click"></MenuItem>
+                <MenuItem x:Name="mitmY2" Header="Yellow" StaysOpenOnClick="True" IsCheckable="True" Click="mitmY2_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <ToolBar x:Name="toolBar" Margin="0,50,363,239">
+            <Button x:Name="tlbRed"    Width="25" Height="25" Background="red"    Click="tlbRed_Click"    ToolTip="Make Rectangle Red"   ></Button>
+            <Button x:Name="tlbBlue"   Width="25" Height="25" Background="blue"   Click="tlbBlue_Click"   ToolTip="Make Rectangle Blue"  ></Button>
+            <Button x:Name="tlbGreen"  Width="25" Height="25" Background="green"  Click="tlbGreen_Click"  ToolTip="Make Rectangle Green" ></Button>
+            <Button x:Name="tlbYellow" Width="25" Height="25" Background="Yellow" Click="tlbYellow_Click" ToolTip="Make Rectangle Yellow"></Button>
+        </ToolBar>
+        <Canvas x:Name="Canvas" Margin="10,86,10,10">
+            <Rectangle x:Name="rectFill"  Width="200" Height="100" Fill="Black" Canvas.Left="149" Canvas.Top="62">
+                
+            </Rectangle>
+        </Canvas>
+
+    </Grid>
+    <Window.ContextMenu>
+        <ContextMenu>
+            <MenuItem Header="Rectangle" />
+            <MenuItem Header="Square" />
+            <Separator />
+            <MenuItem Header="Circle" />
+            <MenuItem Header="Ellipse" />
+        </ContextMenu>
+    </Window.ContextMenu>
+
+</Window>

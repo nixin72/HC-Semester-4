@@ -1,0 +1,34 @@
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\ApplicationInsights.config
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\roslyn\csc.exe
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\roslyn\System.Collections.Immutable.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\roslyn\System.Reflection.Metadata.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\roslyn\vbc.exe
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\roslyn\VBCSCompiler.exe
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\roslyn\VBCSCompiler.exe.config
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Part F - Accordion Control.dll.config
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Part F - Accordion Control.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Part F - Accordion Control.pdb
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\AjaxControlToolkit.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Microsoft.AI.DependencyCollector.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Microsoft.AI.Web.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Microsoft.AI.WindowsServer.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Microsoft.ApplicationInsights.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Microsoft.AI.DependencyCollector.xml
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Microsoft.AI.Web.xml
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Microsoft.AI.WindowsServer.xml
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Microsoft.ApplicationInsights.xml
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\obj\Debug\Part F - Accordion Control.csprojResolveAssemblyReference.cache
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\obj\Debug\Part F - Accordion Control.dll
+H:\Web IV\Labs\pdumaresq_C40_L08\pdumaresq_C40_L08\Part F - Accordion Control\obj\Debug\Part F - Accordion Control.pdb

@@ -1,0 +1,9 @@
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdPartAShapes\pdPartAShapes\bin\Debug\pdPartAShapes.dll
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdPartAShapes\pdPartAShapes\bin\Debug\pdPartAShapes.pdb
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdPartAShapes\pdPartAShapes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdPartAShapes\pdPartAShapes\bin\Debug\ShapesLibrary.dll
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdPartAShapes\pdPartAShapes\bin\Debug\ShapesLibrary.pdb
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdPartAShapes\pdPartAShapes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdPartAShapes\pdPartAShapes\obj\Debug\pdPartAShapes.csprojResolveAssemblyReference.cache
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdPartAShapes\pdPartAShapes\obj\Debug\pdPartAShapes.dll
+H:\Prog IV\Labs\pdumaresq_B42_L03\pdPartAShapes\pdPartAShapes\obj\Debug\pdPartAShapes.pdb

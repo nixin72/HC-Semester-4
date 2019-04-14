@@ -1,0 +1,136 @@
+---
+--- 
+--- Create triggers to log changes
+---
+    
+    CREATE OR REPLACE TRIGGER WOW_PLAYER_TRG AFTER
+  INSERT OR
+  UPDATE OR
+  DELETE ON WOW_PLAYER_PRIMARY_ATTRIBUTES FOR EACH ROW BEGIN IF inserting THEN
+  INSERT
+  INTO WOW_PLAYER_LOG
+    (
+      name,
+      new_stamina,
+      new_strength,
+      new_agility,
+      new_intellect,
+      new_race,
+      change_date,
+      operation
+    )
+    VALUES
+    (
+      :NEW.name,
+      :NEW.stamina,
+      :NEW.strength,
+      :NEW.agility,
+      :NEW.intellect,
+      :NEW.race,
+      SYSDATE,
+      'INSERT'
+    );
+elsif UPDATING THEN
+
+  INSERT
+  INTO WOW_PLAYER_LOG
+    (
+      name,
+      old_stamina,
+      old_strength,
+      old_agility,
+      old_intellect,
+      old_race,
+      new_stamina,
+      new_strength,
+      new_agility,
+      new_intellect,
+      new_race,
+      change_date,
+      operation
+    )
+    VALUES
+    (
+      :OLD.name,
+      :OLD.stamina,
+      :OLD.strength,
+      :OLD.agility,
+      :OLD.intellect,
+      :OLD.race,
+      :NEW.stamina,
+      :NEW.strength,
+      :NEW.agility,
+      :NEW.intellect,
+      :NEW.race,
+      SYSDATE,
+      'UPDATE'
+    );
+     if  (:NEW.stamina +
+      :NEW.strength +
+      :NEW.agility + 
+      :NEW.intellect ) > (:OLD.stamina +
+      :OLD.strength +
+      :OLD.agility + 
+      :OLD.intellect + 5 ) then
+      raise_application_ERROR( -20001,'ERROR: Cannot level up that quickly');
+      
+  INSERT
+  INTO WOW_PLAYER_LOG
+    (
+      name,
+      old_stamina,
+      old_strength,
+      old_agility,
+      old_intellect,
+      old_race,
+      new_stamina,
+      new_strength,
+      new_agility,
+      new_intellect,
+      new_race,
+      change_date,
+      operation
+    )
+    VALUES
+    (
+      :OLD.name,
+      :OLD.stamina,
+      :OLD.strength,
+      :OLD.agility,
+      :OLD.intellect,
+      :OLD.race,
+      :NEW.stamina,
+      :NEW.strength,
+      :NEW.agility,
+      :NEW.intellect,
+      :NEW.race,
+      SYSDATE,
+      'UPDATE-FAILED'
+    );
+      end if; 
+elsif deleting THEN
+  INSERT
+  INTO WOW_PLAYER_LOG
+    (
+      name,
+      old_stamina,
+      old_strength,
+      old_agility,
+      old_intellect,
+      old_race,
+      change_date,
+      operation
+    )
+    VALUES
+    (
+      :OLD.name,
+      :OLD.stamina,
+      :OLD.strength,
+      :OLD.agility,
+      :OLD.intellect,
+      :OLD.race,
+      SYSDATE,
+      'DELETE'
+    );
+END IF;
+END WOW_PLAYER_TRG;

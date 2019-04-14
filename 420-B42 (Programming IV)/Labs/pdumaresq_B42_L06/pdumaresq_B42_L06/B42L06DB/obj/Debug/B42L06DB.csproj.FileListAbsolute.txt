@@ -1,0 +1,6 @@
+\\heritage-srv-5a\cs$\1523066\Prog IV\Labs\pdumaresq_B42_L06\pdumaresq_B42_L06\B42L06DB\bin\Debug\B42L06DB.dll.config
+\\heritage-srv-5a\cs$\1523066\Prog IV\Labs\pdumaresq_B42_L06\pdumaresq_B42_L06\B42L06DB\bin\Debug\B42L06DB.dll
+\\heritage-srv-5a\cs$\1523066\Prog IV\Labs\pdumaresq_B42_L06\pdumaresq_B42_L06\B42L06DB\bin\Debug\B42L06DB.pdb
+\\heritage-srv-5a\cs$\1523066\Prog IV\Labs\pdumaresq_B42_L06\pdumaresq_B42_L06\B42L06DB\bin\Debug\Oracle.ManagedDataAccess.dll
+\\heritage-srv-5a\cs$\1523066\Prog IV\Labs\pdumaresq_B42_L06\pdumaresq_B42_L06\B42L06DB\obj\Debug\B42L06DB.dll
+\\heritage-srv-5a\cs$\1523066\Prog IV\Labs\pdumaresq_B42_L06\pdumaresq_B42_L06\B42L06DB\obj\Debug\B42L06DB.pdb

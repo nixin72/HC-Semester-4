@@ -1,0 +1,6 @@
+C:\Users\phdum\Source\Workspaces\Hulk\HappyValleyKennels\HvkDB\bin\Debug\HvkDB.dll
+C:\Users\phdum\Source\Workspaces\Hulk\HappyValleyKennels\HvkDB\bin\Debug\HvkDB.pdb
+C:\Users\phdum\Source\Workspaces\Hulk\HappyValleyKennels\HvkDB\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\phdum\Source\Workspaces\Hulk\HappyValleyKennels\HvkDB\obj\Debug\HvkDB.dll
+C:\Users\phdum\Source\Workspaces\Hulk\HappyValleyKennels\HvkDB\obj\Debug\HvkDB.pdb
+C:\Users\phdum\Source\Workspaces\Hulk\HappyValleyKennels\HvkDB\obj\Debug\HvkDB.csprojResolveAssemblyReference.cache

@@ -1,0 +1,49 @@
+﻿<Window x:Class="pdumaresq_B42_L01.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pdumaresq_B42_L01"
+        mc:Ignorable="d"
+        Title="Events R US " Height="445" Width="340" Loaded="Window_Loaded">
+    <Grid Margin="0,0,2,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="37*"></RowDefinition>
+            <RowDefinition Height="46*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label x:Name="label" Content="Name of Event: " HorizontalAlignment="Left" Margin="28,13,0,0" VerticalAlignment="Top" Height="26" Width="94"/>
+        <TextBox x:Name="txtEventName" HorizontalAlignment="Left" Height="23" Margin="127,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="155"/>
+        <Label x:Name="label1" Content="Number of Guests: " HorizontalAlignment="Left" Margin="10,43,0,0" VerticalAlignment="Top" Height="26" Width="112"/>
+        <TextBox x:Name="txtGuests" HorizontalAlignment="Left" Height="23" Margin="127,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="72"/>
+        <Label x:Name="label2" Content="Guest Cost: " HorizontalAlignment="Left" Margin="49,72,0,0" VerticalAlignment="Top" Height="26" Width="73"/>
+        <ComboBox x:Name="cbxGuestCost" HorizontalAlignment="Left" Margin="127,71,0,0" VerticalAlignment="Top" Width="120" Height="22" />
+        <Label x:Name="label3" Content="Entertainment: " HorizontalAlignment="Left" Margin="31,94,0,0" VerticalAlignment="Top" Height="26" Width="91"/>
+        <CheckBox x:Name="chbOpenBar" Content="" HorizontalAlignment="Left" Margin="127,125,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.778,-0.509" Height="16" Width="17"/>
+        <Label x:Name="label4" Content="Open Bar: " HorizontalAlignment="Left" Margin="56,119,0,0" VerticalAlignment="Top" Height="26" Width="66"/>
+        <Button x:Name="btnCalc" Content="Calculate Cost" HorizontalAlignment="Left" Margin="31,155,0,0" VerticalAlignment="Top" Width="91" RenderTransformOrigin="0.183,-0.152" Height="22" Click="btnCalc_Click"/>
+        <Label x:Name="lblFinalCost" Content="" HorizontalAlignment="Left" Margin="77,10,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="0.277,-0.099" Height="26" Width="10"/>
+        <CheckBox x:Name="checkBox" Content="CheckBox" HorizontalAlignment="Left" VerticalAlignment="Top" Height="16" Width="68"/>
+        <CheckBox x:Name="chbDJ" Content="DJ" HorizontalAlignment="Left" Margin="127,99,0,0" VerticalAlignment="Top" Height="16" Width="30"/>
+        <CheckBox x:Name="chbLive" Content="Live Music" HorizontalAlignment="Left" Margin="183,99,0,0" VerticalAlignment="Top" Height="16" Width="72"/>
+        <Label x:Name="label5" Content="Item: " HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="47" FontWeight="Bold"/>
+        <Label x:Name="label6" Content="Cost:" HorizontalAlignment="Left" Margin="173,10,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="1.139,0.692" Height="26" Width="42" FontWeight="Bold"/>
+        <Label x:Name="label7" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Height="26" Width="38"/>
+        <Label x:Name="label8" Content="Totals: " HorizontalAlignment="Left" Margin="235,10,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="47" FontWeight="Bold"/>
+        <Label x:Name="label9" Content="Number of Guests: " HorizontalAlignment="Left" Margin="10,36,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="112"/>
+        <Label x:Name="label10" Content="Cost per Guest: " HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top" Width="100" Grid.Row="1" Height="26"/>
+        <Label x:Name="label11" Content="Total Cost for Guests: " HorizontalAlignment="Left" Margin="10,88,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="134" FontWeight="Bold"/>
+        <Label x:Name="label12" Content="Music: " HorizontalAlignment="Left" Margin="10,114,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label x:Name="label13" Content="Open Bar: " HorizontalAlignment="Left" Margin="10,145,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label x:Name="label14" Content="Total Cost: " HorizontalAlignment="Left" Margin="10,184,0,0" Grid.Row="1" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Label x:Name="lblGuestsR" Content="" HorizontalAlignment="Left" Margin="173,36,0,0" Grid.Row="1" VerticalAlignment="Top" Width="57" BorderThickness="0" Background="White"/>
+        <Label x:Name="lblGCostR" Content="" HorizontalAlignment="Left" Margin="173,62,0,0" Grid.Row="1" VerticalAlignment="Top" Width="57" Background="White"/>
+        <Label x:Name="lblTotalR1" Content="" HorizontalAlignment="Left" Margin="230,88,0,0" Grid.Row="1" VerticalAlignment="Top" Width="90" Background="White"/>
+        <Label x:Name="lblEntTypeR" Content="" HorizontalAlignment="Left" Margin="173,114,0,0" Grid.Row="1" VerticalAlignment="Top" Width="57" Background="White" Height="31"/>
+        <Label x:Name="label19" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label x:Name="lblBarR" Content="" HorizontalAlignment="Left" Margin="173,145,0,0" Grid.Row="1" VerticalAlignment="Top" Width="57" Background="White"/>
+        <Label x:Name="lblEntCostR" Content="" HorizontalAlignment="Left" Margin="230,114,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="-1.8,-0.269" Width="90" Background="White" Height="31"/>
+        <Label x:Name="lblBarCostR" Content="" HorizontalAlignment="Left" Margin="230,145,0,0" Grid.Row="1" VerticalAlignment="Top" Width="90" Background="White"/>
+        <Label x:Name="label23" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label x:Name="lblTotalCostR" Content="" HorizontalAlignment="Left" Margin="230,184,0,0" Grid.Row="1" VerticalAlignment="Top" Width="90" Background="White" RenderTransformOrigin="0.511,0.615" Height="31"/>
+    </Grid>
+</Window>

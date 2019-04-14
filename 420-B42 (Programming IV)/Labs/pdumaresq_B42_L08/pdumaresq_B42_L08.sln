@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdumaresq_B42_L08", "pdumaresq_B42_L08\pdumaresq_B42_L08.csproj", "{ECE5CCC0-8E8A-4B11-89EE-05D166C43E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L08BLL", "L08BLL\L08BLL.csproj", "{738DED2B-B14D-463F-B495-E3B551776404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L08DB", "L08DB\L08DB.csproj", "{132D8FA0-6DF8-4B3D-963A-A6B50FA4A4F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE5CCC0-8E8A-4B11-89EE-05D166C43E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE5CCC0-8E8A-4B11-89EE-05D166C43E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE5CCC0-8E8A-4B11-89EE-05D166C43E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE5CCC0-8E8A-4B11-89EE-05D166C43E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{738DED2B-B14D-463F-B495-E3B551776404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{738DED2B-B14D-463F-B495-E3B551776404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{738DED2B-B14D-463F-B495-E3B551776404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{738DED2B-B14D-463F-B495-E3B551776404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{132D8FA0-6DF8-4B3D-963A-A6B50FA4A4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132D8FA0-6DF8-4B3D-963A-A6B50FA4A4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132D8FA0-6DF8-4B3D-963A-A6B50FA4A4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132D8FA0-6DF8-4B3D-963A-A6B50FA4A4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

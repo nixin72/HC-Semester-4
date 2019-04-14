@@ -1,0 +1,17 @@
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\bin\Debug\pdumaresq_B42_L05.exe.config
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\bin\Debug\pdumaresq_B42_L05.exe
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\bin\Debug\pdumaresq_B42_L05.pdb
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\bin\Debug\Oracle.ManagedDataAccess.dll
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\obj\Debug\MainWindow.g.cs
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\obj\Debug\PartB.g.cs
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\obj\Debug\App.g.cs
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\obj\Debug\pdumaresq_B42_L05_MarkupCompile.cache
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\obj\Debug\pdumaresq_B42_L05_MarkupCompile.lref
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\obj\Debug\MainWindow.baml
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\obj\Debug\PartB.baml
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\obj\Debug\pdumaresq_B42_L05.g.resources
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\obj\Debug\pdumaresq_B42_L05.Properties.Resources.resources
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\obj\Debug\pdumaresq_B42_L05.csproj.GenerateResource.Cache
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\obj\Debug\pdumaresq_B42_L05.exe
+H:\Prog IV\Labs\pdumaresq_B42_L05\pdumaresq_B42_L05\obj\Debug\pdumaresq_B42_L05.pdb

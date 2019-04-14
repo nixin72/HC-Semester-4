@@ -1,0 +1,8 @@
+H:\Web IV\Labs\pdumaresq_B42_L08\L08BLL\bin\Debug\L08BLL.dll
+H:\Web IV\Labs\pdumaresq_B42_L08\L08BLL\bin\Debug\L08BLL.pdb
+H:\Web IV\Labs\pdumaresq_B42_L08\L08BLL\bin\Debug\L08DB.dll
+H:\Web IV\Labs\pdumaresq_B42_L08\L08BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+H:\Web IV\Labs\pdumaresq_B42_L08\L08BLL\bin\Debug\L08DB.pdb
+H:\Web IV\Labs\pdumaresq_B42_L08\L08BLL\obj\Debug\L08BLL.csprojResolveAssemblyReference.cache
+H:\Web IV\Labs\pdumaresq_B42_L08\L08BLL\obj\Debug\L08BLL.dll
+H:\Web IV\Labs\pdumaresq_B42_L08\L08BLL\obj\Debug\L08BLL.pdb

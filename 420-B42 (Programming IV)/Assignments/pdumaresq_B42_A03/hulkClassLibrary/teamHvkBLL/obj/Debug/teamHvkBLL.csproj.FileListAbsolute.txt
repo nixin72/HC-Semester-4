@@ -1,0 +1,9 @@
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\teamHvkBLL\bin\Debug\teamHvkBLL.dll.config
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\teamHvkBLL\bin\Debug\teamHvkBLL.dll
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\teamHvkBLL\bin\Debug\teamHvkBLL.pdb
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\teamHvkBLL\bin\Debug\HulkHvkDB.dll
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\teamHvkBLL\bin\Debug\Oracle.ManagedDataAccess.dll
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\teamHvkBLL\bin\Debug\HulkHvkDB.pdb
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\teamHvkBLL\obj\Debug\teamHvkBLL.dll
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\teamHvkBLL\obj\Debug\teamHvkBLL.pdb
+S:\all\prog\pdumaresq_B42_A03\hulkClassLibrary\teamHvkBLL\obj\Debug\teamHvkBLL.csprojResolveAssemblyReference.cache

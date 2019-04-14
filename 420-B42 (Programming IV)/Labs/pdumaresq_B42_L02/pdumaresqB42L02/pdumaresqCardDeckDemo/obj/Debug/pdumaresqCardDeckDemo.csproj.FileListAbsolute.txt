@@ -1,0 +1,16 @@
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\bin\Debug\pdumaresqCardDeckDemo.exe.config
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\bin\Debug\pdumaresqCardDeckDemo.exe
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\bin\Debug\pdumaresqCardDeckDemo.pdb
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\bin\Debug\pdumaresqCardDeck.dll
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\bin\Debug\pdumaresqCardDeck.pdb
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\obj\Debug\pdumaresqCardDeckDemo.csprojResolveAssemblyReference.cache
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\obj\Debug\MainWindow.g.cs
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\obj\Debug\App.g.cs
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\obj\Debug\pdumaresqCardDeckDemo_MarkupCompile.cache
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\obj\Debug\pdumaresqCardDeckDemo_MarkupCompile.lref
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\obj\Debug\MainWindow.baml
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\obj\Debug\pdumaresqCardDeckDemo.g.resources
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\obj\Debug\pdumaresqCardDeckDemo.Properties.Resources.resources
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\obj\Debug\pdumaresqCardDeckDemo.csproj.GenerateResource.Cache
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\obj\Debug\pdumaresqCardDeckDemo.exe
+\\heritage-srv-5a\cs$\1523066\visual studio 2015\Projects\pdumaresqB42L02\pdumaresqCardDeckDemo\obj\Debug\pdumaresqCardDeckDemo.pdb
